@@ -20,5 +20,5 @@ India's #1 audio brand.
 
 ## Portfolio Links
 - Live Portfolio: https://sites.google.com/view/aditi-digital-marketing-portfo
-- Dashboard: [Data Studio link]
-- Presentation: [Google Slides link]
+- Dashboard: https://datastudio.google.com/u/0/reporting/f2b45329-3acf-4831-a040-b3e277ba3cd1/page/qY70F
+- Presentation: https://docs.google.com/presentation/d/1lpkYN8fUOqgtE1jGOyzcyjwRGFZaJIRxeDkNRGW_oIo/edit?usp=sharing
